@@ -12,14 +12,15 @@
 
 <p align="center">
   <img
-    src="https://github-stats-omega-two.vercel.app/api?username=ichigokekiii&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
+    src="https://github-stats-omega-two.vercel.app/api?username=ichigokekiii&show_icons=true&theme=tokyonight&hide_border=true&card_width=420"
+    height="165"
   />
   <img
-    src="https://github-stats-omega-two.vercel.app/api/top-langs/?username=ichigokekiii&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
+    src="https://github-stats-omega-two.vercel.app/api/top-langs/?username=ichigokekiii&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&card_width=300"
+    height="200"
   />
 </p>
+
 
 <br/>
 
