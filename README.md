@@ -10,8 +10,6 @@
 
 <br/>
 
-## 📊 GitHub Statistics
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=ichigokekiii&show_icons=true&theme=tokyonight&hide_border=true"
@@ -25,7 +23,7 @@
 
 <br/>
 
-## 🚀 Featured Projects (Top Starred)
+## Featured Projects
 
 <!-- PROJECTS-TABLE:START -->
 <!-- PROJECTS-TABLE:END -->
