@@ -1,56 +1,54 @@
 <svg
-  width="520"
-  height="110"
-  viewBox="0 0 520 110"
+  width="420"
+  height="100"
+  viewBox="0 0 420 100"
   xmlns="http://www.w3.org/2000/svg"
 >
 
   <defs>
-    <!-- Wave animation -->
+    <!-- Smooth wave animation -->
     <clipPath id="waveClip">
       <path>
         <animate
           attributeName="d"
-          dur="3.8s"
+          dur="5.5s"
           repeatCount="indefinite"
           values="
-            M0 70 Q 50 60 100 70 T 200 70 T 300 70 T 400 70 T 520 70 V110 H0 Z;
-            M0 70 Q 50 80 100 70 T 200 70 T 300 70 T 400 70 T 520 70 V110 H0 Z;
-            M0 70 Q 50 60 100 70 T 200 70 T 300 70 T 400 70 T 520 70 V110 H0 Z
+            M0 68 Q 60 64 120 68 T 240 68 T 360 68 T 420 68 V100 H0 Z;
+            M0 68 Q 60 72 120 68 T 240 68 T 360 68 T 420 68 V100 H0 Z;
+            M0 68 Q 60 64 120 68 T 240 68 T 360 68 T 420 68 V100 H0 Z
           "
         />
       </path>
     </clipPath>
 
-    <!-- Fill gradient (water color) -->
+    <!-- Purple gradient (chart-matching) -->
     <linearGradient id="fillGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#7dd3fc"/>
-      <stop offset="100%" stop-color="#38bdf8"/>
+      <stop offset="0%" stop-color="#cba6f7"/>
+      <stop offset="100%" stop-color="#9d7cd8"/>
     </linearGradient>
   </defs>
 
-  <!-- TEXT BORDER (outline) -->
+  <!-- Text outline (border) -->
   <text
-    x="50%"
-    y="72%"
-    text-anchor="middle"
-    font-size="64"
+    x="12"
+    y="72"
+    font-size="60"
     font-weight="700"
     font-family="Segoe UI, sans-serif"
     fill="none"
-    stroke="#38bdf8"
-    stroke-width="2.5"
+    stroke="#cba6f7"
+    stroke-width="2.6"
     stroke-linejoin="round"
   >
     Hey, I'm Cake!
   </text>
 
-  <!-- WAVE FILL INSIDE TEXT -->
+  <!-- Wave fill inside text -->
   <text
-    x="50%"
-    y="72%"
-    text-anchor="middle"
-    font-size="64"
+    x="12"
+    y="72"
+    font-size="60"
     font-weight="700"
     font-family="Segoe UI, sans-serif"
     fill="url(#fillGradient)"
