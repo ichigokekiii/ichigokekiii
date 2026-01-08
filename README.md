@@ -1,11 +1,9 @@
-## 
-<p align="left">
+<h1 align="left">
   <img 
     src="https://waterwave-svg.vercel.app/api?text=Hey,%20I'm%20Cake!%20👋&fontSize=48&waveHeight=20&speed=0.15&color=7aa2f7"
     alt="Hey, I'm Cake!"
   />
-</p>
-
+</h1>
 
 ### 💻 Languages
 
