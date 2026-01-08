@@ -1,7 +1,5 @@
 # Hey, I'm Cake! 👋
 
-<br/>
-
 ## 💻 Languages
 
 <p align="left">
