@@ -25,3 +25,4 @@
 
 | Repository | Description | Primary Language | Stars | Forks | Last Updated |
 | ---------- | ----------- | ---------------- | ----- | ----- | ------------ |
+| [Petal-Express-PH](https://github.com/ichigokekiii/Petal-Express-PH) | An E-Commerce Website using Petal Express PH's products | JavaScript | 0 | 0 | <span title="Jan 08, 2026">Today</span> |
