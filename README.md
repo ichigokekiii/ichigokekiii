@@ -12,11 +12,11 @@
 
 <p align="left">
   <img
-    src="https://github-stats-omega-two.vercel.app/api?username=ichigokekiii&show_icons=true&theme=tokyonight&border_color=45475a&card_width=420"
+    src="https://github-stats-omega-two.vercel.app/api?username=ichigokekiii&show_icons=true&theme=tokyonight&border_color=45475a&card_width=450"
     height="165"
   />
   <img
-    src="https://github-stats-omega-two.vercel.app/api/top-langs/?username=ichigokekiii&layout=compact&langs_count=6&theme=tokyonight&border_color=45475a&card_width=300"
+    src="https://github-stats-omega-two.vercel.app/api/top-langs/?username=ichigokekiii&layout=compact&langs_count=6&theme=tokyonight&border_color=45475a&card_width=330"
     height="200"
   />
 </p>
@@ -24,7 +24,7 @@
 
 <br/>
 
-### 🚀 Featured Projects (Top Starred)
+### Featured Projects
 
 <!-- PROJECTS-TABLE:START -->
 <!-- PROJECTS-TABLE:END -->
