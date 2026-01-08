@@ -21,10 +21,7 @@
   />
 </p>
 
-
-<br/>
-
 ### Featured Projects
 
-<!-- PROJECTS-TABLE:START -->
-<!-- PROJECTS-TABLE:END -->
+| Repository | Description | Primary Language | Stars | Forks | Last Updated |
+| ---------- | ----------- | ---------------- | ----- | ----- | ------------ |
