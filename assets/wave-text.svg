@@ -1,61 +1,61 @@
 <svg
-  width="420"
-  height="110"
-  viewBox="0 0 420 110"
+  width="460"
+  height="120"
+  viewBox="0 0 460 120"
   xmlns="http://www.w3.org/2000/svg"
 >
 
   <defs>
-    <!-- Stronger, more visible wave -->
+    <!-- Strong, visible wave -->
     <clipPath id="waveClip">
       <path>
         <animate
           attributeName="d"
-          dur="3.2s"
+          dur="2.8s"
           repeatCount="indefinite"
           values="
-            M0 72 
-            Q 50 58 100 72 
-            T 200 72 
-            T 300 72 
-            T 420 72 
-            V110 H0 Z;
+            M0 78
+            Q 60 52 120 78
+            T 240 78
+            T 360 78
+            T 460 78
+            V120 H0 Z;
 
-            M0 72 
-            Q 50 88 100 72 
-            T 200 72 
-            T 300 72 
-            T 420 72 
-            V110 H0 Z;
+            M0 78
+            Q 60 104 120 78
+            T 240 78
+            T 360 78
+            T 460 78
+            V120 H0 Z;
 
-            M0 72 
-            Q 50 58 100 72 
-            T 200 72 
-            T 300 72 
-            T 420 72 
-            V110 H0 Z
+            M0 78
+            Q 60 52 120 78
+            T 240 78
+            T 360 78
+            T 460 78
+            V120 H0 Z
           "
         />
       </path>
     </clipPath>
 
-    <!-- Purple gradient (chart-matching) -->
+    <!-- Purple gradient (chart-matched) -->
     <linearGradient id="fillGradient" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#cba6f7"/>
       <stop offset="100%" stop-color="#9d7cd8"/>
     </linearGradient>
   </defs>
 
-  <!-- Text outline -->
+  <!-- Text outline (stroke) -->
   <text
-    x="12"
-    y="78"
-    font-size="62"
+    x="14"
+    y="86"
+    font-size="64"
     font-weight="700"
     font-family="Segoe UI, sans-serif"
     fill="none"
     stroke="#cba6f7"
-    stroke-width="2.8"
+    stroke-width="3"
     stroke-linejoin="round"
   >
     Hey, I'm Cake!
@@ -63,9 +63,9 @@
 
   <!-- Wave fill -->
   <text
-    x="12"
-    y="78"
-    font-size="62"
+    x="14"
+    y="86"
+    font-size="64"
     font-weight="700"
     font-family="Segoe UI, sans-serif"
     fill="url(#fillGradient)"
