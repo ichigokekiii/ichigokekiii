@@ -1,4 +1,6 @@
-
+<h1 align="left">
+  <img src="./assets/wave-text.svg" alt="Hey, I'm Cake!" />
+</h1>
 
 ### 💻 Languages
 
