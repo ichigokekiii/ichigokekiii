@@ -1,22 +1,39 @@
 <svg
   width="420"
-  height="100"
-  viewBox="0 0 420 100"
+  height="110"
+  viewBox="0 0 420 110"
   xmlns="http://www.w3.org/2000/svg"
 >
 
   <defs>
-    <!-- Smooth wave animation -->
+    <!-- Stronger, more visible wave -->
     <clipPath id="waveClip">
       <path>
         <animate
           attributeName="d"
-          dur="5.5s"
+          dur="3.2s"
           repeatCount="indefinite"
           values="
-            M0 68 Q 60 64 120 68 T 240 68 T 360 68 T 420 68 V100 H0 Z;
-            M0 68 Q 60 72 120 68 T 240 68 T 360 68 T 420 68 V100 H0 Z;
-            M0 68 Q 60 64 120 68 T 240 68 T 360 68 T 420 68 V100 H0 Z
+            M0 72 
+            Q 50 58 100 72 
+            T 200 72 
+            T 300 72 
+            T 420 72 
+            V110 H0 Z;
+
+            M0 72 
+            Q 50 88 100 72 
+            T 200 72 
+            T 300 72 
+            T 420 72 
+            V110 H0 Z;
+
+            M0 72 
+            Q 50 58 100 72 
+            T 200 72 
+            T 300 72 
+            T 420 72 
+            V110 H0 Z
           "
         />
       </path>
@@ -29,26 +46,26 @@
     </linearGradient>
   </defs>
 
-  <!-- Text outline (border) -->
+  <!-- Text outline -->
   <text
     x="12"
-    y="72"
-    font-size="60"
+    y="78"
+    font-size="62"
     font-weight="700"
     font-family="Segoe UI, sans-serif"
     fill="none"
     stroke="#cba6f7"
-    stroke-width="2.6"
+    stroke-width="2.8"
     stroke-linejoin="round"
   >
     Hey, I'm Cake!
   </text>
 
-  <!-- Wave fill inside text -->
+  <!-- Wave fill -->
   <text
     x="12"
-    y="72"
-    font-size="60"
+    y="78"
+    font-size="62"
     font-weight="700"
     font-family="Segoe UI, sans-serif"
     fill="url(#fillGradient)"
