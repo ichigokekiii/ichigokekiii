@@ -5,7 +5,7 @@
 ## 💻 Languages
 
 <img 
-  src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,angular,dotnet,mysql,kotlin,javascript,php,java,cpp,cs,python&perline=8" 
+  src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,angular,dotnet,mysql,kotlin,php,java,cpp,cs,python" 
 />
 
 ---
