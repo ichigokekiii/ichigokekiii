@@ -1,6 +1,6 @@
-# Hey, I'm Cake! 👋
+Hey, I'm Cake! 👋
 
-## 💻 Languages
+💻 Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,angular,dotnet,mysql,kotlin,php,java,cpp,cs,python" />
