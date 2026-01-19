@@ -6,7 +6,7 @@
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,angular,dotnet,mysql,php,kotlin,java,cpp,cs,python&perline=10"
+    src="https://skillicons.dev/icons?i=nextjs,ts,react,express,nodejs,mongodb,supabase,angular,dotnet,mysql,laravel,go,kotlin,flutter,java,cpp,python&perline=10"
   />
 </p>
 
