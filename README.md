@@ -18,7 +18,7 @@
     height="165"
   />
   <img
-    src="https://github-stats-omega-two.vercel.app/api/top-langs/?username=ichigokekiii&layout=compact&langs_count=6&theme=tokyonight&border_color=45475a&card_width=330"
+    src="https://github-stats-omega-two.vercel.app/api/top-langs/?username=ichigokekiii&layout=compact&langs_count=6&theme=tokyonight&border_color=45475a&card_width=330&cache_seconds=3600&v=2"
     height="200"
   />
 </p>
