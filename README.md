@@ -2,11 +2,11 @@
   <img src="./assets/wave-text.svg?v=2" alt="Hey, I'm Cake!" />
 </h1>
 
-### 💻 Languages
+### 💻 Languages and Tools
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=nextjs,ts,react,express,nodejs,mongodb,supabase,angular,dotnet,mysql,laravel,go,kotlin,flutter,java,cpp,python&perline=10"
+    src="https://skillicons.dev/icons?i=nextjs,ts,react,express,nodejs,mongodb,supabase,angular,dotnet,mysql,laravel,go,kotlin,flutter,java,cpp,python,docker&perline=10"
   />
 </p>
 
