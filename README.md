@@ -2,7 +2,7 @@
   <img src="./assets/wave-text.svg?v=2" alt="Hey, I'm Cake!" />
 </h1>
 
-### 💻 Languages and Tools
+### 💻 Languages & Tools
 
 <p align="left">
   <img
