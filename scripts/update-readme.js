@@ -18,8 +18,7 @@ function timeAgoWithTooltip(date) {
   else if (diffDays === 1) label = "1 day ago";
   else if (diffDays < 30) label = `${diffDays} days ago`;
   else {
-    const months = Math.floor(diffDays / 30);
-    label = months === 1 ? "1 month ago" : `${months} months ago`;
+    label = `${diffDays} days ago`;
   }
 
   const fullDate = updated.toLocaleDateString("en-US", {
