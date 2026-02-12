@@ -16,7 +16,8 @@ function timeAgoWithTooltip(date) {
   let label;
   if (diffDays < 1) label = "Today";
   else if (diffDays === 1) label = "1 day ago";
-  else label = ${diffDays} days&nbsp;ago;
+  else if (diffDays < 30) label = `${diffDays} days ago`;
+  else label = `${diffDays} days ago`;
 
   const fullDate = updated.toLocaleDateString("en-US", {
     year: "numeric",
@@ -26,7 +27,6 @@ function timeAgoWithTooltip(date) {
 
   return `<span title="${fullDate}">${label}</span>`;
 }
-
 
 async function run() {
   const { data: repos } = await octokit.repos.listForUser({
