@@ -27,7 +27,7 @@ function timeAgoWithTooltip(date) {
     day: "2-digit",
   });
 
-  return `<span title="${fullDate}">${label}</span>`;
+  return `<span title="${fullDate}" style="white-space: nowrap;">${label}</span>`;
 }
 
 async function run() {
