@@ -20,7 +20,7 @@ function timeAgoWithTooltip(date) {
   } else if (diffDays === 1) {
     label = "1 day&nbsp;ago";
   } else {
-    label = `${diffDays} days&nbsp;ago`;
+    label = `${diffDays}&nbsp;days&nbsp;ago`;
   }
 
   const fullDate = updated.toLocaleDateString("en-US", {
