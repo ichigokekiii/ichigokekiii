@@ -18,7 +18,7 @@ function timeAgoWithTooltip(date) {
   if (diffDays < 1) {
     label = "Today";
   } else if (diffDays === 1) {
-    label = "1 day&nbsp;ago";
+    label = "1&nbsp;day&nbsp;ago";
   } else {
     label = `${diffDays}&nbsp;days&nbsp;ago`;
   }
