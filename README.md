@@ -28,5 +28,5 @@
 | Repository | Description | Primary Language | Stars | Forks | Last Updated |
 | ---------- | ----------- | ---------------- | ----- | ----- | ------------ |
 | [Ordering-and-POS-System](https://github.com/ichigokekiii/Ordering-and-POS-System) | The Official Website for Petal Express PH. Currently Requirement for Software Engineering 2 | JavaScript | 0 | 0 | <span title="Apr 24, 2026">Today</span> |
-| [Anni](https://github.com/ichigokekiii/Anni) | A Cooperative-Based Logistics Coordination Platform for Smallholder Vegetable Farmers in CALABARZON  | JavaScript | 0 | 0 | <span title="Mar 02, 2026">52&nbsp;days&nbsp;ago</span> |
-| [EndlessJumper](https://github.com/ichigokekiii/EndlessJumper) | A simple 2D Endless Jumper Game using Kotlin and Firebase | Kotlin | 0 | 0 | <span title="Jan 08, 2026">105&nbsp;days&nbsp;ago</span> |
+| [Anni](https://github.com/ichigokekiii/Anni) | A Cooperative-Based Logistics Coordination Platform for Smallholder Vegetable Farmers in CALABARZON  | JavaScript | 0 | 0 | <span title="Mar 02, 2026">53&nbsp;days&nbsp;ago</span> |
+| [EndlessJumper](https://github.com/ichigokekiii/EndlessJumper) | A simple 2D Endless Jumper Game using Kotlin and Firebase | Kotlin | 0 | 0 | <span title="Jan 08, 2026">106&nbsp;days&nbsp;ago</span> |
