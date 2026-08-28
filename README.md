@@ -27,8 +27,8 @@
 
 | Repository | Description | Primary Language | Stars | Forks | Last Updated |
 | ---------- | ----------- | ---------------- | ----- | ----- | ------------ |
-| [After-Class](https://github.com/ichigokekiii/After-Class) |  After Class is a campus dating app exclusively for verified college students! You swipe, it plans t | JavaScript | 0 | 0 | <span title="Jun 19, 2026">68&nbsp;days&nbsp;ago</span> |
-| [Ordering-and-POS-System](https://github.com/ichigokekiii/Ordering-and-POS-System) | The Official Website for Petal Express PH. Currently Requirement for Software Engineering 2 | JavaScript | 0 | 0 | <span title="May 29, 2026">90&nbsp;days&nbsp;ago</span> |
-| [EcoQuest](https://github.com/ichigokekiii/EcoQuest) | For Elec 2 (React + Express) | JavaScript | 0 | 1 | <span title="May 19, 2026">100&nbsp;days&nbsp;ago</span> |
-| [Anni](https://github.com/ichigokekiii/Anni) | A Cooperative-Based Logistics Coordination Platform for Smallholder Vegetable Farmers in CALABARZON  | JavaScript | 0 | 0 | <span title="Mar 02, 2026">178&nbsp;days&nbsp;ago</span> |
-| [EndlessJumper](https://github.com/ichigokekiii/EndlessJumper) | A simple 2D Endless Jumper Game using Kotlin and Firebase | Kotlin | 0 | 0 | <span title="Jan 08, 2026">230&nbsp;days&nbsp;ago</span> |
+| [After-Class](https://github.com/ichigokekiii/After-Class) |  After Class is a campus dating app exclusively for verified college students! You swipe, it plans t | JavaScript | 0 | 0 | <span title="Jun 19, 2026">69&nbsp;days&nbsp;ago</span> |
+| [Ordering-and-POS-System](https://github.com/ichigokekiii/Ordering-and-POS-System) | The Official Website for Petal Express PH. Currently Requirement for Software Engineering 2 | JavaScript | 0 | 0 | <span title="May 29, 2026">91&nbsp;days&nbsp;ago</span> |
+| [EcoQuest](https://github.com/ichigokekiii/EcoQuest) | For Elec 2 (React + Express) | JavaScript | 0 | 1 | <span title="May 19, 2026">101&nbsp;days&nbsp;ago</span> |
+| [Anni](https://github.com/ichigokekiii/Anni) | A Cooperative-Based Logistics Coordination Platform for Smallholder Vegetable Farmers in CALABARZON  | JavaScript | 0 | 0 | <span title="Mar 02, 2026">179&nbsp;days&nbsp;ago</span> |
+| [EndlessJumper](https://github.com/ichigokekiii/EndlessJumper) | A simple 2D Endless Jumper Game using Kotlin and Firebase | Kotlin | 0 | 0 | <span title="Jan 08, 2026">232&nbsp;days&nbsp;ago</span> |
